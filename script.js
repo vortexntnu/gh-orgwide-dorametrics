@@ -1,5 +1,0 @@
-// script file
-
-function main() {
-    
-}
