@@ -1,6 +1,6 @@
 {
-  "short_name": "VorMet",
-  "name": "Vortex DORA metrics",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
